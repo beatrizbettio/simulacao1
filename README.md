@@ -1,5 +1,5 @@
 # PROJETO EMPRESARIAL
-Logo aqui vocês podem inserir a Visão do Produto, que nada mais é do que uma descrição bem objetiva do produto que está sendo criado.
+Logo aqui vocês podem inserir a Visão do Produto, que nada mais é do que uma descrição bem objetiva do produto que está sendo desenvolvido.
 
 ## PROBLEMA
 Aqui vocês podem especificar o problema ou a situação que motiva a criação do produto.
